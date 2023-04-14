@@ -17,8 +17,8 @@ export class AppComponent {
 
   getPerson(){
     return{
-      name: 'Tomasz',
-      surname: 'Kowalski',
+      name: 'Adam',
+      surname: 'Nowak',
       age: 23
     };
   }
